@@ -1,5 +1,5 @@
 //Collected all of my imports needed in my program which includes reading from the scanner and file as well as writing to the file as well as the Array list
-import java.io.FileNotFoundException;gggg
+import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.PrintWriter;
 import java.util.ArrayList;
